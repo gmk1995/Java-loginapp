@@ -5,6 +5,7 @@ pipeline {
 
     tools {
         maven 'maven3.8.7'
+        git 'Default'
     }
 
     options {
